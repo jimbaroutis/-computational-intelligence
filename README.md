@@ -1,1 +1,1 @@
-# -computational-intelligence
+Project Υπολογιστικής Νοημοσύνης σε Python
